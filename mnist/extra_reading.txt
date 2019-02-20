@@ -1,0 +1,11 @@
+Kaggle compeition and dataset
+https://www.kaggle.com/c/digit-recognizer
+
+model comparision
+http://yann.lecun.com/exdb/mnist/
+
+Python examples
+https://github.com/dmlc/xgboost/tree/master/demo/guide-python
+
+Parameters
+https://github.com/dmlc/xgboost/blob/master/doc/parameter.rst
