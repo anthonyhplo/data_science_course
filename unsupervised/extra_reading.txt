@@ -1,0 +1,8 @@
+A Beginner's Guide to Eigenvectors, Eigenvalues, PCA, Covariance and Entropy
+https://skymind.ai/wiki/eigenvector
+
+Why is the eigenvector of a covariance matrix equal to a principal component?
+https://math.stackexchange.com/questions/23596/why-is-the-eigenvector-of-a-covariance-matrix-equal-to-a-principal-component
+
+A Tutorial on Principal Component Analysis
+https://arxiv.org/pdf/1404.1100.pdf
