@@ -1,1 +1,1 @@
-# Machine Learning examples
+# Machine Learning for Data Science class
