@@ -4,14 +4,14 @@ import pandas as pd
 import xgboost as xgb
 from sklearn.model_selection import train_test_split, KFold
 from sklearn.metrics import roc_auc_score, accuracy_score
-
+import pickle
 
 if __name__ == "__main__":
 
 	## read train.csv and test.csv into dataframes
 	df_train = pd.read_csv("../dataset/mnist/train.csv")
 	df_test = pd.read_csv("../dataset/mnist/test.csv")
-
+	
 	X = df_train.iloc[:,1:]
 	y = df_train.iloc[:,0]
 	k = 5
@@ -24,9 +24,9 @@ if __name__ == "__main__":
 				"objective" : "multi:softmax",
 				"num_class" : 10,
 				"gamma" : 0.1,
-				"max_depth" : 4
-				"num_boost_round" : 1,
-			}
+				"max_depth" : 4,
+				"num_boost_round" : 1
+				}
 
 	for train_index, test_index in KFold(n_splits=k).split(X):
 	    train_X = X.loc[train_index,:]

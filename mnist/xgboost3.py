@@ -21,8 +21,6 @@ if __name__ == "__main__":
 	train_avg_score = 0
 	test_avg_score = 0
 
-
-
 	param_grid = {
 				"eta" : [0.3, 0.5, 1],
 				"objective" : "multi:softmax",
