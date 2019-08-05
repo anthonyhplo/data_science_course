@@ -30,6 +30,8 @@ if __name__ == "__main__":
 				"num_boost_round" : [5, 10, 15],
 			}
 	for param in ParameterGrid(param_grid):
+		train_avg_score = 0
+		test_avg_score = 0
 		print(param)
 		for train_index, test_index in KFold(n_splits=k).split(X):
 		    train_X = X.loc[train_index,:]
