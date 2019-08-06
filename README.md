@@ -29,14 +29,20 @@ Course materials for Venturenix Lab's Data Science course in Hong Kong
 - [Matplotlib](https://matplotlib.org/3.1.1/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py):Basic introduction
 - [Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html) : Easy to use Data visualization tool. Build on top of matplotlib
 ---
+#### Web Scraping
+---
 #### Basic Linear Algebra, Statistics and Calculus
 ---
+#### Loss function
+- (Optional) [CS229 notes](http://cs229.stanford.edu/extra-notes/loss-functions.pdf) of loss functions
 #### Supervised Learning
+- Scikit-learn documentations: [User Gudie](https://scikit-learn.org/stable/user_guide.html) and [Tutorials](https://scikit-learn.org/stable/tutorial/index.html)
+##### Linear Regression
+- [Tutorial](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html) on Linear Regression: This blog describes the basic of linear regression.
 
-##### Linear regression
-
-##### Logistc regression
-
+##### Logistc Regression
+- [Tutorial](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html) on Logistic Regression: This blog describes the basic of logistic regression.
+- [CS229 notes](http://cs229.stanford.edu/notes/cs229-notes1.pdf) of Logistic Regression, read p16 - p19
 ##### SVM
 
 ##### Decision Tree
@@ -53,6 +59,9 @@ Course materials for Venturenix Lab's Data Science course in Hong Kong
 ##### Dimensionality Reduction
 ---
 #### Recommender System
+- [XLearn](https://xlearn-doc.readthedocs.io/en/latest/python_api/index.html) The library we used in class for RecSys
+- [Factorization Machine](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf) The FM paper by Rendle
+- (Optional) [Deep and Wide Learning]() The Deep Learning RecSys architecture by Google
 ---
 #### Natural Language Processing
 ---
