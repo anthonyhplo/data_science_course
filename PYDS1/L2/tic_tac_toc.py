@@ -12,10 +12,10 @@ def game_update(game_board, player):
 
 def win_check(game_board, player, update_step, board_size, left_diag, right_diag):
     #check horizontal
-    if len(set(game_board[update_step[0],])) == 1 and list(set(game_board[update_step[0],]))[0] == player:
+    if len(set(game_board[update_step[0],])) == 1:
         return player
     #Check vertical
-    elif len(set(game_board[:,update_step[1]])) == 1 and list(set(game_board[:,update_step[1]]))[0] == player:
+    elif len(set(game_board[:,update_step[1]])) == 1:
         return player
     #cross check: left to right
     elif update_step in left_diag and len(set([game_board[i[0],i[1]] for i in left_diag])) == 1:
@@ -27,8 +27,6 @@ def win_check(game_board, player, update_step, board_size, left_diag, right_diag
 
 def tic_tac_toe(board_size):
     # initial State
-    player_1 = 1
-    player_2 = 2
     game_board = np.zeros((board_size, board_size))
     max_step = board_size*board_size
     step = 0
@@ -51,5 +49,6 @@ def tic_tac_toe(board_size):
                 continue_play = False
                 break
 
-tic_tac_toe(3)
+if __name__ == "__main__":    
+    tic_tac_toe(3)
             
