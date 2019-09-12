@@ -1,5 +1,5 @@
 ## Python and Data Science Course Repository
-Course materials for Venturenix Lab's Data Science course in Hong Kong
+Course materials for weekly Python/Data science class in Hong Kong, partnered with Venturenix Lab since 2018
 
 ######  **Instructor**: [Anthony Lo](https://www.linkedin.com/in/anthony-lo-ab2b9253) and [Gawain Chin](https://www.linkedin.com/in/gawainchin/)
 ---
