@@ -47,7 +47,8 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - [Tutorial](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html) on Logistic Regression: This blog describes the basic of logistic regression.
 - [CS229 notes](http://cs229.stanford.edu/notes/cs229-notes1.pdf) of Logistic Regression, read p16 - p19
 ##### SVM
-
+- [Tutorial](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93) on Support Vector Machine. Read this for SVM basic
+- [Lecture by Professor Patrick Winston](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-16-learning-support-vector-machines/) with Math
 ##### Decision Tree
 
 ##### Ensemble Learning
