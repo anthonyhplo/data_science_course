@@ -15,13 +15,18 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 
 ##### Homework:
 
+- Setting up your python environment if you have any set up issues during the lession
+- Join the class slack 
 - Revise the teaching material
-- Complete the [L1 Homework](/data_science_course/homework/L1_homework.md) before next lession
-
+- Complete the [L1 Homework](/homework/L1_homework.md) before next lession
+- Create your own github account and explore the open source world
+- :star: Star this Data Science repo to get the latest materials! 
+  
 #### Resources
 
 - [Python2 vs Python3](https://www.geeksforgeeks.org/important-differences-between-python-2-x-and-python-3-x-with-examples/):  Difference between Python2  and Python3
 - [Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf): Quick Python Syntax look up
+- [Introduction to Github](https://guides.github.com/activities/hello-world/): A beginner guide to Github
 
 
 
