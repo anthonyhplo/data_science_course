@@ -3,6 +3,30 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 
 ######  **Instructor**: [Anthony Lo](https://www.linkedin.com/in/anthony-lo-ab2b9253) and [Gawain Chin](https://www.linkedin.com/in/gawainchin/)
 ---
+#### Lesson 1: Introduction to Python
+
+
+- Setting up Python Environment
+- Data Type: Integer, Floats, Booleans, String
+- Variable assignments
+- Type Conversion
+- Operators: Arithmetic, Comparison, Logical, Bitwise
+- Control Flows: If-elif-else, While Loop, For loop
+
+##### Homework:
+
+- Revise the teaching material
+- Complete the [L1 Homework](/data_science_course/homework/L1_homework.md) before next lession
+
+#### Resources
+
+- [Python2 vs Python3](https://www.geeksforgeeks.org/important-differences-between-python-2-x-and-python-3-x-with-examples/):  Difference between Python2  and Python3
+- [Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf): Quick Python Syntax look up
+
+
+
+--- 
+
 #### Past Kaggle by students
 - [Santander Customer Transaction Prediction](https://www.kaggle.com/c/santander-customer-transaction-prediction)
 - [Microsoft Malware Prediction](https://www.kaggle.com/c/microsoft-malware-prediction)
