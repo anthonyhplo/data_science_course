@@ -4,7 +4,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 ######  **Instructor**: [Anthony Lo](https://www.linkedin.com/in/anthony-lo-ab2b9253) and [Gawain Chin](https://www.linkedin.com/in/gawainchin/)
 
 
-| Course 1 | Course 2|
+| Part 1 | Part 2|
 | ------ | ------|
 | Lesson 1:Basic Python | Lesson 7: Introduction to Data Science|
 | Lesson 2: Functions and Your First Application | Lesson 8: Data Manipulation and Visualization|
