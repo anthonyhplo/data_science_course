@@ -22,13 +22,147 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - Create your own github account and explore the open source world
 - :star: Star this Data Science repo to get the latest materials! 
   
-#### Resources
+##### Resources
 
 - [Python2 vs Python3](https://www.geeksforgeeks.org/important-differences-between-python-2-x-and-python-3-x-with-examples/):  Difference between Python2  and Python3
 - [Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf): Quick Python Syntax look up
 - [Introduction to Github](https://guides.github.com/activities/hello-world/): A beginner guide to Github
 
+---
+#### Lesson 2
+- 
+##### Homework:
+- 
+##### Resources
+- 
 
+---
+#### Lesson 3
+- 
+##### Homework:
+- 
+##### Resources
+- 
+
+---
+#### Lesson 4
+- 
+##### Homework:
+- 
+##### Resources
+- 
+
+---
+#### Lesson 5
+- 
+##### Homework:
+- 
+##### Resources
+- 
+
+---
+#### Lesson 6
+- 
+##### Homework:
+- 
+##### Resources
+- 
+
+---
+#### Lesson 7
+- 
+##### Homework:
+- 
+##### Resources
+- 
+
+---
+#### Lesson 8
+- 
+##### Homework:
+- 
+##### Resources
+- 
+
+---
+#### Lesson 9
+- 
+##### Homework:
+- 
+##### Resources
+- 
+
+---
+#### Lesson 10
+- 
+##### Homework:
+- 
+##### Resources
+- 
+
+---
+#### Lesson 11
+- 
+##### Homework:
+- 
+##### Resources
+- 
+
+---
+#### Lesson 12
+- 
+##### Homework:
+- 
+##### Resources
+- 
+
+---
+#### Lesson 13
+- 
+##### Homework:
+- 
+##### Resources
+- 
+
+---
+#### Lesson 14
+- 
+##### Homework:
+- 
+##### Resources
+- 
+
+---
+#### Lesson 15
+- 
+##### Homework:
+- 
+##### Resources
+- 
+
+---
+#### Lesson 16
+- 
+##### Homework:
+- 
+##### Resources
+- 
+
+---
+#### Lesson 17
+- 
+##### Homework:
+- 
+##### Resources
+- 
+
+---
+#### Lesson 18
+- 
+##### Homework:
+- 
+##### Resources
+- 
 
 --- 
 
