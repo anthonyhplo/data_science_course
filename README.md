@@ -2,6 +2,23 @@
 Course materials for weekly Python/Data science class in Hong Kong, partnered with Venturenix Lab since 2018
 
 ######  **Instructor**: [Anthony Lo](https://www.linkedin.com/in/anthony-lo-ab2b9253) and [Gawain Chin](https://www.linkedin.com/in/gawainchin/)
+
+
+| Course 1 | Course 2|
+| ------ | ------|
+| Lesson 1:Basic Python | Lesson 7: Introduction to Data Science|
+| Lesson 2: Functions and Your First Application | Lesson 8: Data Manipulation and Visualization|
+| Lesson 3: Data Strucuture and Complexity I| Lesson 9: Black box machine learning|
+| Lesson 4: Data Strucuture and Complexity II| Lesson 10: Linear models and gradient descent|
+| Lesson 5: Web Scraping| Lesson 11: Logistic Regression and SVM|
+| Lesson 6: Code Training| Lesson 12: Model Evaluation and Regularization|
+| | Lesson 13: Ensemble Learning and Tree based Models|
+| | Lesson 14: Kaggle competition|
+| | Lesson 15: Clustering and Dimensionality Reduction|
+| | Lesson 16: Recommender System|
+| | Lesson 17: Natural Language Processing|
+| | Lesson 18: Final Project Presentation|
+
 ---
 #### Lesson 1: Python Basics
 - Setting up Python Environment
