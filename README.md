@@ -3,9 +3,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 
 ######  **Instructor**: [Anthony Lo](https://www.linkedin.com/in/anthony-lo-ab2b9253) and [Gawain Chin](https://www.linkedin.com/in/gawainchin/)
 ---
-#### Lesson 1: Introduction to Python
-
-
+#### Lesson 1: Python Basics
 - Setting up Python Environment
 - Data Type: Integer, Floats, Booleans, String
 - Variable assignments
@@ -14,7 +12,6 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - Control Flows: If-elif-else, While Loop, For loop
 
 ##### Homework:
-
 - Setting up your python environment if you have any set up issues during the lession
 - Join the class slack 
 - Revise the teaching material
@@ -23,21 +20,21 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - :star: Star this Data Science repo to get the latest materials! 
   
 ##### Resources
-
 - [Python2 vs Python3](https://www.geeksforgeeks.org/important-differences-between-python-2-x-and-python-3-x-with-examples/):  Difference between Python2  and Python3
 - [Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf): Quick Python Syntax look up
 - [Introduction to Github](https://guides.github.com/activities/hello-world/): A beginner guide to Github
 
 ---
-#### Lesson 2
-- 
+#### Lesson 2: Your First Applications
+- Functions: Input arguments, function return
+- Classwork: Write a game (Refer to class notes)
 ##### Homework:
-- 
+- Game 2: Tic-Tac-Toe
 ##### Resources
 - 
 
 ---
-#### Lesson 3
+#### Lesson 3: 
 - 
 ##### Homework:
 - 
