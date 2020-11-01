@@ -47,7 +47,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - Local Variable vs Global Variable
 - Classwork: Write a game (Refer to class notes)
 ##### Homework:
-- Game 2: Tic-Tac-Toe
+- Game 2: [Tic-Tac-Toe](/homework/L2_homework.md)
 ##### Resources
 - [Python random module](https://www.w3schools.com/python/module_random.asp): For homework 1
 - [Python Numpy Module](https://www.w3schools.com/python/numpy_intro.asp): For homework 2
