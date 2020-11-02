@@ -6,18 +6,18 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 
 | Part 1 | Part 2|
 | ------ | ------|
-| Lesson 1:Basic Python | Lesson 7: Introduction to Data Science|
-| Lesson 2: Functions and Your First Application | Lesson 8: Data Manipulation and Visualization|
-| Lesson 3: Data Strucuture and Complexity I| Lesson 9: Black box machine learning|
-| Lesson 4: Data Strucuture and Complexity II| Lesson 10: Linear models and gradient descent|
-| Lesson 5: Web Scraping| Lesson 11: Logistic Regression and SVM|
-| Lesson 6: Code Training| Lesson 12: Model Evaluation and Regularization|
-| | Lesson 13: Ensemble Learning and Tree based Models|
-| | Lesson 14: Kaggle competition|
-| | Lesson 15: Clustering and Dimensionality Reduction|
-| | Lesson 16: Recommender System|
-| | Lesson 17: Natural Language Processing|
-| | Lesson 18: Final Project Presentation|
+| Lesson 1: [Python Basics](#lesson-1-python-basics) | Lesson 7: [Introduction to Data Science](#lesson-7-introduction-to-data-science)|
+| Lesson 2: [Functions and Your First Application](#lesson-2-your-first-applications) | Lesson 8: [Data Manipulation and Visualization](#lesson-8-data-manipulation-and-visualization)|
+| Lesson 3: [Data Strucuture and Complexity I](#lesson-3-data-strucuture-and-complexity-i)| Lesson 9: [Black box machine learning](#lesson-9-black-box-machine-learning)|
+| Lesson 4: [Data Strucuture and Complexity II](#lesson-4-data-strucuture-and-complexity-ii)| Lesson 10: [Linear models and gradient descent](#lesson-10-linear-models-and-gradient-descent)|
+| Lesson 5: [Web Scraping](#lesson-5-web-scraping)| Lesson 11: [Logistic Regression and SVM](#lesson-11-logistic-regression-and-svm)|
+| Lesson 6: [Code Training](#lesson-6-code-training)| Lesson 12: [Model Evaluation and Regularization](#lesson-12-model-evaluation-and-regularization)|
+| | Lesson 13: [Ensemble Learning and Tree based Models](#lesson-13-ensemble-learning-and-tree-based-models)|
+| | Lesson 14: [Kaggle competition](#lesson-14-kaggle-competition)|
+| | Lesson 15: [Clustering and Dimensionality Reduction](#lesson-15-clustering-and-dimensionality-reduction)|
+| | Lesson 16: [Recommender System](#lesson-16-recommender-system)|
+| | Lesson 17: [Natural Language Processing](#lesson-17-natural-language-processing)|
+| | Lesson 18: [Final Project Presentation](#lesson-18-final-project-presentation)|
 
 ---
 #### Lesson 1: Python Basics
@@ -44,14 +44,17 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 ---
 #### Lesson 2: Your First Applications
 - Functions: Input arguments, function return
+- Local Variable vs Global Variable
 - Classwork: Write a game (Refer to class notes)
 ##### Homework:
-- Game 2: Tic-Tac-Toe
+- Game 2: [Tic-Tac-Toe](/homework/L2_homework.md)
 ##### Resources
-- 
+- [Python random module](https://www.w3schools.com/python/module_random.asp): For homework 1
+- [Python Numpy Module](https://www.w3schools.com/python/numpy_intro.asp): For homework 2
+- [Numpy cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf): Quick Numpy lookup
 
 ---
-#### Lesson 3: 
+#### Lesson 3: Data Strucuture and Complexity I
 - 
 ##### Homework:
 - 
@@ -59,7 +62,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - 
 
 ---
-#### Lesson 4
+#### Lesson 4: Data Strucuture and Complexity II
 - 
 ##### Homework:
 - 
@@ -67,7 +70,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - 
 
 ---
-#### Lesson 5
+#### Lesson 5: Web Scraping
 - 
 ##### Homework:
 - 
@@ -75,7 +78,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - 
 
 ---
-#### Lesson 6
+#### Lesson 6: Code Training
 - 
 ##### Homework:
 - 
@@ -83,7 +86,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - 
 
 ---
-#### Lesson 7
+#### Lesson 7: Introduction to Data Science
 - 
 ##### Homework:
 - 
@@ -91,7 +94,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - 
 
 ---
-#### Lesson 8
+#### Lesson 8: Data Manipulation and Visualization
 - 
 ##### Homework:
 - 
@@ -99,7 +102,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - 
 
 ---
-#### Lesson 9
+#### Lesson 9: Black box machine learning
 - 
 ##### Homework:
 - 
@@ -107,7 +110,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - 
 
 ---
-#### Lesson 10
+#### Lesson 10: Linear models and gradient descent
 - 
 ##### Homework:
 - 
@@ -115,7 +118,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - 
 
 ---
-#### Lesson 11
+#### Lesson 11: Logistic Regression and SVM
 - 
 ##### Homework:
 - 
@@ -123,7 +126,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - 
 
 ---
-#### Lesson 12
+#### Lesson 12: Model Evaluation and Regularization
 - 
 ##### Homework:
 - 
@@ -131,7 +134,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - 
 
 ---
-#### Lesson 13
+#### Lesson 13: Ensemble Learning and Tree based Models
 - 
 ##### Homework:
 - 
@@ -139,7 +142,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - 
 
 ---
-#### Lesson 14
+#### Lesson 14: Kaggle competition
 - 
 ##### Homework:
 - 
@@ -147,7 +150,39 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - 
 
 ---
-#### Lesson 15
+#### Lesson 15: Clustering and Dimensionality Reduction
+- Unsupervised  Learning Concepts
+- Clustering Algorithm (e.g. K-Means)
+- Dimensionality reduction (e.g. PCA)
+- Case Study: Eigenface
+##### Homework:
+- Self implementation of K-Means clustering
+##### Resources
+- Elbow for K-Means: [link1](https://medium.com/@cmukesh8688/silhouette-analysis-in-k-means-clustering-cefa9a7ad111), [link2](https://stackoverflow.com/questions/59106417/what-would-be-the-best-k-for-this-kmeans-clustering-elbow-point-plot)
+- Example using K-means for [customer segmenation](https://towardsdatascience.com/customer-segmentation-using-k-means-clustering-d33964f238c3)
+- A very comprehensive study material on [SVD/PCA](https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/book-chapter-4.pdf).
+- [Scikit-learn offical documentation](https://scikit-learn.org/stable/modules/clustering.html) to discuss different types of clustering. 
+- An introduction to the DBSCAN algorithm and its Implementation in Python on [KDnuggets](https://www.kdnuggets.com/2020/04/dbscan-clustering-algorithm-machine-learning.html).
+- For more details on DBSCAN, read the original [paper](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf).
+- T-SNE: [paper](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf), [introduction](https://reneshbedre.github.io/blog/tsne.html), [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html), [visual](https://distill.pub/2016/misread-tsne/)
+- Hierachical-clustering: [Introduction](ttps://www.kdnuggets.com/2019/09/hierarchical-clustering.html)
+---
+#### Lesson 16: Recommender System
+- Understand Recommendater System
+- Content-Base vs Collaborative Filtering
+##### Homework:
+- Create movie profile by genres. each columns is 0/1 indicator for each genre
+- Use numpy to calculate the similarity matrix (m x m)
+  - normalize each row by norm (A/|A| etc)
+  - obtain similarity matrix by M dot Mt
+- write a function to get movie id and return the top K most similar movies with
+    - min score, max score, min rating, min total rating, time range
+##### Resources
+- [Factorization Machine](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf) The FM paper by Rendle
+- (Optional) [Deep and Wide Learning]() The Deep Learning RecSys architecture by Google
+
+---
+#### Lesson 17: Natural Language Processing
 - 
 ##### Homework:
 - 
@@ -155,23 +190,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - 
 
 ---
-#### Lesson 16
-- 
-##### Homework:
-- 
-##### Resources
-- 
-
----
-#### Lesson 17
-- 
-##### Homework:
-- 
-##### Resources
-- 
-
----
-#### Lesson 18
+#### Lesson 18: Final Project Presentation
 - 
 ##### Homework:
 - 
