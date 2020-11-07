@@ -8,16 +8,16 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 | ------ | ------|
 | Lesson 1: [Python Basics](#lesson-1-python-basics) | Lesson 7: [Introduction to Data Science](#lesson-7-introduction-to-data-science)|
 | Lesson 2: [Functions and Your First Application](#lesson-2-your-first-applications) | Lesson 8: [Data Manipulation and Visualization](#lesson-8-data-manipulation-and-visualization)|
-| Lesson 3: [Data Strucuture and Complexity I](#lesson-3-data-strucuture-and-complexity-i)| Lesson 9: [Black box machine learning](#lesson-9-black-box-machine-learning)|
-| Lesson 4: [Data Strucuture and Complexity II](#lesson-4-data-strucuture-and-complexity-ii)| Lesson 10: [Linear models and gradient descent](#lesson-10-linear-models-and-gradient-descent)|
-| Lesson 5: [Web Scraping](#lesson-5-web-scraping)| Lesson 11: [Logistic Regression and SVM](#lesson-11-logistic-regression-and-svm)|
-| Lesson 6: [Code Training](#lesson-6-code-training)| Lesson 12: [Model Evaluation and Regularization](#lesson-12-model-evaluation-and-regularization)|
+| Lesson 3: [Intensive Code Training](#)| Lesson 9: [Black box machine learning](#lesson-9-black-box-machine-learning)|
+| Lesson 4: [Data Strucuture and Complexity](#lesson-4-data-strucuture-and-complexity-ii)| Lesson 10: [Linear models and gradient descent](#lesson-10-linear-models-and-gradient-descent)|
+| Lesson 5: [Web Scraping and OOP](#lesson-5-web-scraping)| Lesson 11: [Logistic Regression and SVM](#lesson-11-logistic-regression-and-svm)|
+| Lesson 6: [Intensive Code Training](#lesson-6-code-training)| Lesson 12: [Model Evaluation and Regularization](#lesson-12-model-evaluation-and-regularization)|
 | | Lesson 13: [Ensemble Learning and Tree based Models](#lesson-13-ensemble-learning-and-tree-based-models)|
 | | Lesson 14: [Kaggle competition](#lesson-14-kaggle-competition)|
 | | Lesson 15: [Clustering and Dimensionality Reduction](#lesson-15-clustering-and-dimensionality-reduction)|
 | | Lesson 16: [Recommender System](#lesson-16-recommender-system)|
 | | Lesson 17: [Natural Language Processing](#lesson-17-natural-language-processing)|
-| | Lesson 18: [Final Project Presentation](#lesson-18-final-project-presentation)|
+| | Lesson 18: [TBD](#)|
 
 ---
 #### Lesson 1: Python Basics
@@ -190,7 +190,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - 
 
 ---
-#### Lesson 18: Final Project Presentation
+#### Lesson 18: 
 - 
 ##### Homework:
 - 
