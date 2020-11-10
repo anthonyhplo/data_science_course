@@ -10,8 +10,8 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 | Lesson 2: [Functions and Your First Application](#lesson-2-your-first-applications) | Lesson 8: [Data Manipulation and Visualization](#lesson-8-data-manipulation-and-visualization)|
 | Lesson 3: [Intensive Code Training](#lesson-3-intensive-code-training)| Lesson 9: [Black box machine learning](#lesson-9-black-box-machine-learning)|
 | Lesson 4: [Data Strucuture and Complexity](#lesson-4-data-strucuture-and-complexity)| Lesson 10: [Linear models and gradient descent](#lesson-10-linear-models-and-gradient-descent)|
-| Lesson 5: [Web Scraping](#lesson-5-web-scraping)| Lesson 11: [Logistic Regression and SVM](#lesson-11-logistic-regression-and-svm)|
-| Lesson 6: [Code Training](#lesson-6-code-training)| Lesson 12: [Model Evaluation and Regularization](#lesson-12-model-evaluation-and-regularization)|
+| Lesson 5: [Web Scraping and OOP](#lesson-5-web-scraping-and-oop)| Lesson 11: [Logistic Regression and SVM](#lesson-11-logistic-regression-and-svm)|
+| Lesson 6: [Intensive Code Training](#lesson-6-intensive-code-training)| Lesson 12: [Model Evaluation and Regularization](#lesson-12-model-evaluation-and-regularization)|
 | | Lesson 13: [Ensemble Learning and Tree based Models](#lesson-13-ensemble-learning-and-tree-based-models)|
 | | Lesson 14: [Kaggle competition](#lesson-14-kaggle-competition)|
 | | Lesson 15: [Clustering and Dimensionality Reduction](#lesson-15-clustering-and-dimensionality-reduction)|
@@ -75,7 +75,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - 
 
 ---
-#### Lesson 5: Web Scraping
+#### Lesson 5: Web Scraping and OPP
 - 
 ##### Homework:
 - 
@@ -83,7 +83,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - 
 
 ---
-#### Lesson 6: Code Training
+#### Lesson 6: Intensive Code Training
 - 
 ##### Homework:
 - 
