@@ -17,7 +17,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 | | Lesson 15: [Clustering and Dimensionality Reduction](#lesson-15-clustering-and-dimensionality-reduction)|
 | | Lesson 16: [Recommender System](#lesson-16-recommender-system)|
 | | Lesson 17: [Natural Language Processing](#lesson-17-natural-language-processing)|
-| | Lesson 18: [TBD](#lesson-18)|
+| | Lesson 18: [TBD](#lesson-18-TBD)|
 
 ---
 #### Lesson 1: Python Basics
@@ -68,19 +68,25 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 
 ---
 #### Lesson 4: Data Strucuture and Complexity
-- 
-##### Homework:
-- 
-##### Resources
-- 
+- Introduction of common python data structures (List, Set, Dictionary, Tuple)
+- Discussion on time complexity and space complexity
 
+##### Homework:
+- Complete [L4 Homework](/homework/L4_homework.md)
+##### Resources
+- [Offical documentation](https://docs.python.org/3/tutorial/datastructures.html) on Data Stucture
+- [Cheat Sheet](https://wiki.python.org/moin/TimeComplexity) on Time-complexity of various operation
+- 
 ---
 #### Lesson 5: Web Scraping and OPP
-- 
+- Web Scraping overview
+- Python Web Scraping tool: request and beautiful soup
+  
 ##### Homework:
-- 
+- Web scraping homework
 ##### Resources
-- 
+- [Requests](https://requests.readthedocs.io/en/master/) documentation
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) documentation
 
 ---
 #### Lesson 6: Intensive Code Training
@@ -199,8 +205,8 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - Word2vec visualization: [link](https://projector.tensorflow.org)
 - Jibra (Chinese NLP): [github](https://github.com/fxsjy/jieba)
 ---
-#### Lesson 18:
-- 
+#### Lesson 18: TBD
+
 ##### Homework:
 - 
 ##### Resources
@@ -238,6 +244,8 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - [Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html) : Easy to use Data visualization tool. Build on top of matplotlib
 ---
 #### Web Scraping
+- [Requests](https://requests.readthedocs.io/en/master/) documentation
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) documentation
 ---
 #### Basic Linear Algebra, Statistics and Calculus
 ---

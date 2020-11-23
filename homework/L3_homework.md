@@ -1,4 +1,4 @@
-## Homework: L2
+## Homework: L3
 
 #### Question 1:  Consecutive Characters
 Write a function to find the length of the longest substring that contains only one unique character.
