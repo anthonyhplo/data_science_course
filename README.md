@@ -8,16 +8,16 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 | ------ | ------|
 | Lesson 1: [Python Basics](#lesson-1-python-basics) | Lesson 7: [Introduction to Data Science](#lesson-7-introduction-to-data-science)|
 | Lesson 2: [Functions and Your First Application](#lesson-2-your-first-applications) | Lesson 8: [Data Manipulation and Visualization](#lesson-8-data-manipulation-and-visualization)|
-| Lesson 3: [Intensive Code Training](#)| Lesson 9: [Black box machine learning](#lesson-9-black-box-machine-learning)|
-| Lesson 4: [Data Strucuture and Complexity](#lesson-4-data-strucuture-and-complexity-ii)| Lesson 10: [Linear models and gradient descent](#lesson-10-linear-models-and-gradient-descent)|
-| Lesson 5: [Web Scraping and OOP](#lesson-5-web-scraping)| Lesson 11: [Logistic Regression and SVM](#lesson-11-logistic-regression-and-svm)|
-| Lesson 6: [Intensive Code Training](#lesson-6-code-training)| Lesson 12: [Model Evaluation and Regularization](#lesson-12-model-evaluation-and-regularization)|
+| Lesson 3: [Intensive Code Training](#lesson-3-intensive-code-training)| Lesson 9: [Black box machine learning](#lesson-9-black-box-machine-learning)|
+| Lesson 4: [Data Strucuture and Complexity](#lesson-4-data-strucuture-and-complexity)| Lesson 10: [Linear models and gradient descent](#lesson-10-linear-models-and-gradient-descent)|
+| Lesson 5: [Web Scraping and OOP](#lesson-5-web-scraping-and-oop)| Lesson 11: [Logistic Regression and SVM](#lesson-11-logistic-regression-and-svm)|
+| Lesson 6: [Intensive Code Training](#lesson-6-intensive-code-training)| Lesson 12: [Model Evaluation and Regularization](#lesson-12-model-evaluation-and-regularization)|
 | | Lesson 13: [Ensemble Learning and Tree based Models](#lesson-13-ensemble-learning-and-tree-based-models)|
 | | Lesson 14: [Kaggle competition](#lesson-14-kaggle-competition)|
 | | Lesson 15: [Clustering and Dimensionality Reduction](#lesson-15-clustering-and-dimensionality-reduction)|
 | | Lesson 16: [Recommender System](#lesson-16-recommender-system)|
 | | Lesson 17: [Natural Language Processing](#lesson-17-natural-language-processing)|
-| | Lesson 18: [TBD](#)|
+| | Lesson 18: [TBD](#lesson-18-TBD)|
 
 ---
 #### Lesson 1: Python Basics
@@ -33,13 +33,12 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - Join the class slack 
 - Revise the teaching material
 - Complete the [L1 Homework](/homework/L1_homework.md) before next lession
-- Create your own github account and explore the open source world
-- :star: Star this Data Science repo to get the latest materials! 
+
   
 ##### Resources
 - [Python2 vs Python3](https://www.geeksforgeeks.org/important-differences-between-python-2-x-and-python-3-x-with-examples/):  Difference between Python2  and Python3
 - [Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf): Quick Python Syntax look up
-- [Introduction to Github](https://guides.github.com/activities/hello-world/): A beginner guide to Github
+
 
 ---
 #### Lesson 2: Your First Applications
@@ -54,31 +53,45 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - [Numpy cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf): Quick Numpy lookup
 
 ---
-#### Lesson 3: Data Strucuture and Complexity I
-- 
+#### Lesson 3: Intensive Code Training
+- Introduction of Github
+- Review Python Basics and functions
+- Review Game 2 Homework
+
+
 ##### Homework:
-- 
+- Complete [L3 Homework](/homework/L3_homework.md)
+- Create your own github account and explore the open source world
+- :star: Star this Data Science repo to get the latest materials! 
 ##### Resources
-- 
+- [Introduction to Github](https://guides.github.com/activities/hello-world/): A beginner guide to Github
 
 ---
-#### Lesson 4: Data Strucuture and Complexity II
-- 
+#### Lesson 4: Data Strucuture and Complexity
+- Data structures (List, Set, Dictionary, Tuple)
+- Mutable vs Immutable
+- Understanding time complexity and space complexity
+
 ##### Homework:
-- 
+- Complete [L4 Homework](/homework/L4_homework.md)
 ##### Resources
-- 
+- [Offical documentation](https://docs.python.org/3/tutorial/datastructures.html) on Data Stucture
+- [Cheat Sheet](https://wiki.python.org/moin/TimeComplexity) on Time-complexity of various operation
 
 ---
-#### Lesson 5: Web Scraping
-- 
+#### Lesson 5: Web Scraping and OPP
+- Web Scraping overview
+- Python Web Scraping tool: request and beautiful soup
+- Classwork: Hands-on crawling excerise 
+  
 ##### Homework:
-- 
+- Web scraping homework
 ##### Resources
-- 
+- [Requests](https://requests.readthedocs.io/en/master/) documentation
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) documentation
 
 ---
-#### Lesson 6: Code Training
+#### Lesson 6: Intensive Code Training
 - 
 ##### Homework:
 - 
@@ -179,19 +192,23 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
     - min score, max score, min rating, min total rating, time range
 ##### Resources
 - [Factorization Machine](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf) The FM paper by Rendle
+- xlearn package for FM and FFM: [link](https://xlearn-doc.readthedocs.io/en/latest/index.html)
 - (Optional) [Deep and Wide Learning]() The Deep Learning RecSys architecture by Google
 
 ---
 #### Lesson 17: Natural Language Processing
-- 
+- Introduction to NLP
+- Tokenization, Tf-idf, Word Embedding
+- NLP Package Overview: NLTK
 ##### Homework:
-- 
+- NLP exercise and Recsys exercise 
 ##### Resources
-- 
-
+- NLTK: [official website](https://www.nltk.org)
+- Word2vec visualization: [link](https://projector.tensorflow.org)
+- Jibra (Chinese NLP): [github](https://github.com/fxsjy/jieba)
 ---
-#### Lesson 18: 
-- 
+#### Lesson 18: TBD
+
 ##### Homework:
 - 
 ##### Resources
@@ -229,6 +246,8 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - [Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html) : Easy to use Data visualization tool. Build on top of matplotlib
 ---
 #### Web Scraping
+- [Requests](https://requests.readthedocs.io/en/master/) documentation
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) documentation
 ---
 #### Basic Linear Algebra, Statistics and Calculus
 ---
