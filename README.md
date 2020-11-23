@@ -68,19 +68,21 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 
 ---
 #### Lesson 4: Data Strucuture and Complexity
-- Introduction of common python data structures (List, Set, Dictionary, Tuple)
-- Discussion on time complexity and space complexity
+- Data structures (List, Set, Dictionary, Tuple)
+- Mutable vs Immutable
+- Understanding time complexity and space complexity
 
 ##### Homework:
 - Complete [L4 Homework](/homework/L4_homework.md)
 ##### Resources
 - [Offical documentation](https://docs.python.org/3/tutorial/datastructures.html) on Data Stucture
 - [Cheat Sheet](https://wiki.python.org/moin/TimeComplexity) on Time-complexity of various operation
-- 
+
 ---
 #### Lesson 5: Web Scraping and OPP
 - Web Scraping overview
 - Python Web Scraping tool: request and beautiful soup
+- Classwork: Scraping excerise 
   
 ##### Homework:
 - Web scraping homework
