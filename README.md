@@ -82,7 +82,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 #### Lesson 5: Web Scraping and OPP
 - Web Scraping overview
 - Python Web Scraping tool: request and beautiful soup
-- Classwork: Scraping excerise 
+- Classwork: Hands-on crawling excerise 
   
 ##### Homework:
 - Web scraping homework
