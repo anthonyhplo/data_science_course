@@ -11,7 +11,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 | Lesson 3: [Intensive Code Training](#lesson-3-intensive-code-training)| Lesson 9: [Black box machine learning](#lesson-9-black-box-machine-learning)|
 | Lesson 4: [Data Strucuture and Complexity](#lesson-4-data-strucuture-and-complexity)| Lesson 10: [Linear models and gradient descent](#lesson-10-linear-models-and-gradient-descent)|
 | Lesson 5: [Web Scraping and OOP](#lesson-5-web-scraping-and-oop)| Lesson 11: [Logistic Regression and SVM](#lesson-11-logistic-regression-and-svm)|
-| Lesson 6: [Intensive Code Training](#lesson-6-intensive-code-training)| Lesson 12: [Model Evaluation and Regularization](#lesson-12-model-evaluation-and-regularization)|
+| Lesson 6: [Data Manipulation](#lesson-6-data-manipulation)| Lesson 12: [Model Evaluation and Regularization](#lesson-12-model-evaluation-and-regularization)|
 | | Lesson 13: [Ensemble Learning and Tree based Models](#lesson-13-ensemble-learning-and-tree-based-models)|
 | | Lesson 14: [Kaggle competition](#lesson-14-kaggle-competition)|
 | | Lesson 15: [Clustering and Dimensionality Reduction](#lesson-15-clustering-and-dimensionality-reduction)|
@@ -91,7 +91,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) documentation
 
 ---
-#### Lesson 6: Intensive Code Training
+#### Lesson 6: Data Manipulation
 - 
 ##### Homework:
 - 
