@@ -92,27 +92,45 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 
 ---
 #### Lesson 6: Data Manipulation
-- 
+- Web Scraping II
+- Introduction to Python Class Objects
+- Pandas Basics with Case study
 ##### Homework:
-- 
+- Flight Delay Dataset: Create your own tables by Pandas
 ##### Resources
-- 
+- [10 mins of Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+- [Pandas CheatSheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+- [SQL Intro resource](https://www.w3schools.com/sql/sql_intro.asp)
 
 ---
 #### Lesson 7: Introduction to Data Science
-- 
+- What is Data Science? 
+- Essential Skills of Data Scientist
+- Foundation of Probability
+- Permutation vs Combination
+
 ##### Homework:
-- 
+- [L7 Homework](/homework/L7_homework.md)
 ##### Resources
-- 
+- [Probabilities and Statistics Refresher](
+https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics) From Stanford 
+
 
 ---
 #### Lesson 8: Data Manipulation and Visualization
-- 
+- Case Study: Titanic Dataset
+- Understand Machine Learning Workflow
+- First EDA Training
+- Visualization: Matplotlib, Seaborn
+  
 ##### Homework:
-- 
+- Build your first model with scikit-learn
 ##### Resources
-- 
+- [Matplotlib Official Guide](
+https://matplotlib.org) for Visualization
+- [Seaborn Official Guide](
+https://seaborn.pydata.org): Another great package to create beautiful charts 
+- [Scikit-learn](https://scikit-learn.org/stable/user_guide.html): User Guide for machine learning
 
 ---
 #### Lesson 9: Black box machine learning
