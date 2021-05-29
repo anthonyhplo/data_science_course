@@ -31,7 +31,6 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 ##### Homework:
 - Setting up your python environment if you have any set up issues during the lession
 - Join the class slack 
-- Revise the teaching material
 - Complete the [L1 Homework](/homework/L1_homework.md) before next lession
 
   
