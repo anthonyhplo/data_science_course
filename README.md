@@ -123,37 +123,42 @@ https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistic
 - Visualization: Matplotlib, Seaborn
   
 ##### Homework:
-- Build your first model with scikit-learn
+- One Hot encoding on Variables
 ##### Resources
 - [Matplotlib Official Guide](
 https://matplotlib.org) for Visualization
 - [Seaborn Official Guide](
 https://seaborn.pydata.org): Another great package to create beautiful charts 
-- [Scikit-learn](https://scikit-learn.org/stable/user_guide.html): User Guide for machine learning
+- [Pandas Get Dummy Function](https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html)
 
 ---
 #### Lesson 9: Black box machine learning
-- 
+- Your First machine learning experience
+- EDA on Advertising Dataset
+- Understand the X and Y Relationship
 ##### Homework:
-- 
+- First Linear Regression with Scikit-Learn Model Training
 ##### Resources
-- 
+- [Scikit-learn](https://scikit-learn.org/stable/user_guide.html): User Guide for machine learning
 
 ---
 #### Lesson 10: Linear models and gradient descent
-- 
-##### Homework:
-- 
+- Build Linear Regression from Scratch
+- Learn the theory behind gradient descent 
 ##### Resources
-- 
+- [Linear regression](https://en.wikipedia.org/wiki/Linear_regression)
+- [Gradient Descent](https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html)
 
 ---
 #### Lesson 11: Logistic Regression and SVM
-- 
-##### Homework:
-- 
+- Learn the concept behind the logistic regression and its cost function
+- Understand different types of Classification model and the difference from Linear Regression
+
 ##### Resources
-- 
+- [Tutorial on linear regression and logistic regression](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html#cost-function)
+- [Loss function](http://cs229.stanford.edu/extra-notes/loss-functions.pdf)
+- [Logistic regression](http://cs229.stanford.edu/notes2020fall/notes2020fall/cs229-notes1.pdf) Please look at P16-P19. 
+
 
 ---
 #### Lesson 12: Model Evaluation and Regularization
