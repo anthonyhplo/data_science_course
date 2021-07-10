@@ -162,19 +162,26 @@ https://seaborn.pydata.org): Another great package to create beautiful charts
 
 ---
 #### Lesson 12: Model Evaluation and Regularization
-- 
+- Model Evaluation Techniques: Training Set, Validation Set, Test Set
+- Understand the concept: Overfitting and Underfitting
+- Classification Metrics: Accuracy, Confusion Matrics, F1 Score, True Positive, False Positive, True Negative, False Negative
+- Regularization Concepts: Ridge and Lasso (L1 and L2)
+
 ##### Homework:
-- 
+- [House Price Prediction Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
 ##### Resources
-- 
+- [Interactive ROC](http://www.navan.name/roc/)
 
 ---
 #### Lesson 13: Ensemble Learning and Tree based Models
-- 
+- Introduction of Tree-Based Model: Decision Tree
+- Tree Construction Concept: Edge and Node, Splitting Concepts
+- Ensemble Learning: Bagging and Boosting
+
 ##### Homework:
 - 
 ##### Resources
-- 
+- [Information Gain](https://homes.cs.washington.edu/~shapiro/EE596/notes/InfoGain.pdf)
 
 ---
 #### Lesson 14: Kaggle competition
