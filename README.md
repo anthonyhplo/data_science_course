@@ -179,17 +179,20 @@ https://seaborn.pydata.org): Another great package to create beautiful charts
 - Ensemble Learning: Bagging and Boosting
 
 ##### Homework:
-- 
+- Revise the tree-based model and submit one kaggle competition by using tree base method  
 ##### Resources
 - [Information Gain](https://homes.cs.washington.edu/~shapiro/EE596/notes/InfoGain.pdf)
 
 ---
 #### Lesson 14: Kaggle competition
-- 
+- Workshop lesson to work on Kaggle competition together
+- Understand end to end Machine Learning flow and apply to the kaggle competition
+- Use different algorithms to explore and review on model perforamance
+
 ##### Homework:
-- 
+- NA
 ##### Resources
-- 
+- NA
 
 ---
 #### Lesson 15: Clustering and Dimensionality Reduction
