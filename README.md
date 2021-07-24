@@ -95,7 +95,7 @@ Course materials for weekly Python/Data science class in Hong Kong, partnered wi
 - Introduction to Python Class Objects
 - Pandas Basics with Case study
 ##### Homework:
-- Flight Delay Dataset: Create your own tables by Pandas
+- Flight Delay Dataset: Create your own tables with Pandas 
 ##### Resources
 - [10 mins of Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 - [Pandas CheatSheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
@@ -280,8 +280,13 @@ https://seaborn.pydata.org): Another great package to create beautiful charts
 #### Web Scraping
 - [Requests](https://requests.readthedocs.io/en/master/) documentation
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) documentation
+- [Selenium] https://selenium-python.readthedocs.io
+- [Scrapy](https://scrapy.org)
 ---
 #### Basic Linear Algebra, Statistics and Calculus
+- [Algebra & Calculus Refresher](https://stanford.edu/~shervine/teaching/cs-229/refresher-algebra-calculus)
+- [Statistics Refresher](https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics)
+- [Algebra & Calculus Review](http://cs229.stanford.edu/section/cs229-linalg.pdf)
 ---
 #### Loss function
 - (Optional) [CS229 notes](http://cs229.stanford.edu/extra-notes/loss-functions.pdf) of loss functions
@@ -297,27 +302,37 @@ https://seaborn.pydata.org): Another great package to create beautiful charts
 - [Tutorial](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93) on Support Vector Machine. Read this for SVM basic
 - [Lecture by Professor Patrick Winston](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-16-learning-support-vector-machines/) with Math
 ##### Decision Tree
-
+- [Information Gain](https://homes.cs.washington.edu/~shapiro/EE596/notes/InfoGain.pdf)
+- [Decision Tree Intro From ESL](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)  Chapter 9
 ##### Ensemble Learning
-
+- [Random Forest Intro From ESL](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)  Chapter 15
+- [Sklearn Random Forest Implementaion](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+- [XGboost](https://xgboost.readthedocs.io/en/latest/)
 ##### kNN
-
+- [kNN Sklearn implementation](https://scikit-learn.org/stable/modules/neighbors.html#classification)
 ---
 #### Unsupervised Learning
-
+-[Unsupervised Learning Overview](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning)
+- [Unsupervised Intro From ESL](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)  Chapter 14
 ##### K-Means
-
+- Elbow for K-Means: [link1](https://medium.com/@cmukesh8688/silhouette-analysis-in-k-means-clustering-cefa9a7ad111), [link2](https://stackoverflow.com/questions/59106417/what-would-be-the-best-k-for-this-kmeans-clustering-elbow-point-plot)
+- Example using K-means for [customer segmenation](https://towardsdatascience.com/customer-segmentation-using-k-means-clustering-d33964f238c3)
 ##### Dimensionality Reduction
----
+- A very comprehensive study material on [SVD/PCA](https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/book-chapter-4.pdf).
 #### Recommender System
 - [XLearn](https://xlearn-doc.readthedocs.io/en/latest/python_api/index.html) The library we used in class for RecSys
 - [Factorization Machine](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf) The FM paper by Rendle
-- (Optional) [Deep and Wide Learning]() The Deep Learning RecSys architecture by Google
+- (Optional) [Deep and Wide Learning](https://arxiv.org/pdf/1606.07792.pdf) The Deep Learning RecSys architecture by Google
 ---
 #### Natural Language Processing
+- NLTK: [official website](https://www.nltk.org)
+- Word2vec visualization: [link](https://projector.tensorflow.org)
+- [Word2vec Overview](https://jalammar.github.io/illustrated-word2vec/)
+- Jibra (Chinese NLP): [github](https://github.com/fxsjy/jieba)
 ---
 #### Reinforcement Learning
 ---
 #### Deep Learning
-
+- [Convolutional Neural Network CheatSheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+- [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf)
 
