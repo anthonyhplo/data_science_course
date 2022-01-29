@@ -23,7 +23,8 @@ Create a GitHub repository and answer these questions in your README
   - Other sources
 
 
-## Week 16: Exploratory Data Analysis
+## Week 16: Data Processing, Engineering and Exploratory Data Analysis
+
 - What data have you gathered, and how did you gather it?
 - Which areas of the data have you cleaned, and which areas still need cleaning?
 - What steps have you taken to explore the data?
@@ -38,7 +39,7 @@ Create a GitHub repository and answer these questions in your README
 ## Week 18: First Draft
 
 
-## Week 19: No lesson
+## Week 19: No class
 
 
-## Week 20: Final presentation
+## Week 20: Final Presentation and Peer Review
