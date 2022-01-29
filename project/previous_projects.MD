@@ -1,0 +1,5 @@
+The impact of Denuvo (Anti-Piracy software) on video game sale record
+Star Prediction for Michelin Restaurant
+Pet Adoption Prediction
+Room occupancy Prediction with IoT device
+The impact of Denuvo
